@@ -2,10 +2,20 @@ body
 {
     color: #333;
     text-align: center;
-    font-family: "arial";  
+    font-family: "Arial";  
     font-size: 16px;
     margin: 0;
     padding: 0;
+}
+
+#Cabecera
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
 #container
 {
@@ -19,4 +29,9 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 1em;
 }
